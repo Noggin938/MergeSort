@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         //Assist from ChatGPT
-        //
+        //https://github.com/Noggin938/MergeSort.git
         // Lab Work: Ask the user how many integer numbers to be sorted
         Scanner scanner = new Scanner(System.in);
 
